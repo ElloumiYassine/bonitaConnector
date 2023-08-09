@@ -264,7 +264,7 @@
         <repository>
             <id>github</id>
             <name>GitHub OWNER Apache Maven Packages</name>
-            <url>https://github.com/ElloumiYassine/bonitaConnector</url>
+            <url>https://maven.pkg.github.com/ElloumiYassine/bonitaConnector</url>
         </repository>
     </distributionManagement>
 </project>
